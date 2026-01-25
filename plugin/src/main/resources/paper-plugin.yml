@@ -1,0 +1,11 @@
+name: Autumn
+main: dev.dementisimus.autumn.plugin.AutumnPlugin
+loader: dev.dementisimus.autumn.plugin.AutumnPluginLoader
+version: ${project.version}-${git.commit.id.describe-short}
+author: dementisimus
+api-version: ${minecraft.version}
+dependencies:
+  server:
+    ProtocolLib:
+      load: BEFORE
+      required: true

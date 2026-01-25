@@ -1,0 +1,74 @@
+{
+  "dependencies": [
+    {
+      "artifact": {
+        "groupId": "org.mongodb",
+        "artifactId": "bson",
+        "version": "${mongodb.version}"
+      }
+    },
+    {
+      "artifact": {
+        "groupId": "com.zaxxer",
+        "artifactId": "HikariCP",
+        "version": "${HikariCP.version}"
+      }
+    },
+    {
+      "artifact": {
+        "groupId": "com.mysql",
+        "artifactId": "mysql-connector-j",
+        "version": "${mysql-connector-j.version}"
+      }
+    },
+    {
+      "artifact": {
+        "groupId": "org.mongodb",
+        "artifactId": "mongodb-driver-reactivestreams",
+        "version": "${mongodb.version}"
+      }
+    },
+    {
+      "artifact": {
+        "groupId": "org.xerial",
+        "artifactId": "sqlite-jdbc",
+        "version": "${sqlite-jdbc.version}"
+      }
+    },
+    {
+      "artifact": {
+        "groupId": "org.fusesource.jansi",
+        "artifactId": "jansi",
+        "version": "${jansi.version}"
+      }
+    },
+    {
+      "artifact": {
+        "groupId": "com.google.code.gson",
+        "artifactId": "gson",
+        "version": "${gson.version}"
+      }
+    },
+    {
+      "artifact": {
+        "groupId": "com.google.guava",
+        "artifactId": "guava",
+        "version": "${guava.version}"
+      }
+    },
+    {
+      "artifact": {
+        "groupId": "org.apache.commons",
+        "artifactId": "commons-lang3",
+        "version": "${commons-lang3.version}"
+      }
+    },
+    {
+      "artifact": {
+        "groupId": "tools.jackson.core",
+        "artifactId": "jackson-databind",
+        "version": "${jackson-databind.version}"
+      }
+    }
+  ]
+}
